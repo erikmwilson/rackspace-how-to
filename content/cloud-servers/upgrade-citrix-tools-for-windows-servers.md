@@ -124,8 +124,7 @@ If you decide to use this option one, we recommend taking a final image of the s
 
 #### Option 2
 
-You can perform all of the installation steps on the production server during a planned
-maintenance window. The server will retain its original IP address.
+You can perform all of the installation steps on the production server during a planned maintenance window. The server will retain its original IP address.
 
 After installing the Citrix Tools on the non-production server, you should have a better understanding of how long your maintenance window should be.
 
