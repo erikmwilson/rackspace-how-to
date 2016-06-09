@@ -5,8 +5,8 @@ title: Connect to a Cloud Database with a FQDN Address via MySQL Workbench
 type: article
 created_date: '2012-08-02'
 created_by: Rae D. Cabello
-last_modified_date: '2015-09-04'
-last_modified_by: Constanze Kratel
+last_modified_date: '2015-06-09'
+last_modified_by: Kyle Laffoon
 product: Cloud Databases
 product_url: cloud-databases
 ---
@@ -51,8 +51,10 @@ Workbench.
 9.  Click **Continue**.
     You are prompted for the database instance password. If everything
     is correct, the following information is displayed:
-
-    <img src="{% asset_path cloud-databases/connect-to-a-cloud-database-with-a-fqdn-address-via-mysql-workbench/4.png %}" width="861" height="612" />
+     - Confirmation of open database connection
+     - Server version
+     - Operating system of server
+     - Statement that database connection tested successfully
 
 
 After the database connection is tested, the Server Administration screen is
